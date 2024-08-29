@@ -1,0 +1,23 @@
+{
+    "name": "com.myria-libs.myrialeaderboardsdk",
+    "version": "3.0.0",
+    "displayName": "MyriaLeaderboard",
+    "description": "Myria Leaderboard is a game backend-as-a-service which allow developers to manage and create leaderboard data flow in game.\n",
+    "unity": "2022.2",
+    "documentationUrl": "https://myria.com/",
+    "licensesUrl": "https://github.com/lephuvu1994/leaderboardSDK.git",
+    "author": {
+      "name": "Myria_Development_Team",
+      "email": "support@myria.com",
+      "url": "https://myria.com"
+    },
+    "type": "tool",
+    "samples": [
+      {
+        "displayName": "MyriaLeaderboardExamples",
+        "description": "Contains samples for a few different features",
+        "path": "Samples~/MyriaLeaderboardExamples"
+      }
+    ]
+  }
+  
